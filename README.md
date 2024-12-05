@@ -9,3 +9,4 @@ A very easy Esp32 Marauder Flasher with a few clicks and numbers and a usb and t
 # Special thanks to justcallmekoko for making esp32 marauder and fr4nkfletcher
 
 # Update : Updated to 1.1.0
+
