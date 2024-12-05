@@ -10,3 +10,4 @@ A very easy Esp32 Marauder Flasher with a few clicks and numbers and a usb and t
 
 # Update : Updated to 1.1.0
 
+
